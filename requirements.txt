@@ -29,7 +29,7 @@ memcache-toolbar==0.5.6
 memory-profiler==0.47
 msgpack-python==0.4.8
 olefile==0.44
-Pillow==4.2.1
+Pillow==8.1.1
 pluggy==0.5.1
 psutil==5.2.2
 psycopg2==2.7.3.1
